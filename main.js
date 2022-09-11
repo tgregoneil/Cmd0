@@ -41237,7 +41237,7 @@ module.exports = charenc;
 /***/ ((module) => {
 
 "use strict";
-module.exports = {"curV":"1605"};
+module.exports = {"curV":"1606"};
 
 /***/ }),
 
